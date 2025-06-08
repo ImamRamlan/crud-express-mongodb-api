@@ -19,7 +19,7 @@ Project fullstack sederhana menggunakan **Express.js** dan **MongoDB** di backen
 - Database MongoDB menggunakan Mongoose
 - Frontend modern dengan React (Vite)
 - Routing dengan React Router
-- UI responsif (gunakan Chakra UI atau Tailwind jika ada)
+- UI responsif (Chakra UI)
 
 ---
 
