@@ -20,7 +20,16 @@ A simple fullstack project using **Express.js** and **MongoDB** for the backend,
 
 ## 🛠️ Tech Stack
 
+<<<<<<< HEAD
 ### Frontend
+=======
+- CRUD data item
+- Backend API dengan Express
+- Database MongoDB menggunakan Mongoose
+- Frontend modern dengan React (Vite)
+- Routing dengan React Router
+- UI responsif (Chakra UI)
+>>>>>>> d70290df5222eda1906c9188a848dded237ce1e5
 
 - React 18
 - Vite
